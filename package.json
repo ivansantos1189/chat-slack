@@ -1,0 +1,22 @@
+{
+  "name": "chat-slack",
+  "version": "1.0.0",
+  "description": "Chat baseado no Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivansantos1189/chat-slack.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Ivan Santos da Cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivansantos1189/chat-slack/issues"
+  },
+  "homepage": "https://github.com/ivansantos1189/chat-slack#readme"
+}
