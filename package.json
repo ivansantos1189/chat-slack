@@ -2,7 +2,7 @@
   "name": "chat-slack",
   "version": "1.0.0",
   "description": "Chat baseado no Slack",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/ivansantos1189/chat-slack/issues"
   },
-  "homepage": "https://github.com/ivansantos1189/chat-slack#readme"
+  "homepage": "https://github.com/ivansantos1189/chat-slack#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-hbs": "^1.0.4",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.0.0",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.6",
+    "morgan": "^1.9.0"
+  }
 }
